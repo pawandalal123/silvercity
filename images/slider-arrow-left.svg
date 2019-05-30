@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="46px" viewBox="0 0 25 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>right-arrow (2) copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-page" transform="translate(-135.000000, -588.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="right-arrow-(2)-copy" transform="translate(147.500000, 611.000000) scale(-1, 1) translate(-147.500000, -611.000000) translate(135.000000, 588.000000)">
+                <path d="M2.81803543,45.5241379 C2.49597424,45.8413793 2.09339775,46 1.65056361,46 C1.20772947,46 0.805152979,45.8413793 0.483091787,45.5241379 C-0.161030596,44.8896552 -0.161030596,43.8586207 0.483091787,43.2241379 L21.0144928,23 L0.483091787,2.77586207 C-0.161030596,2.14137931 -0.161030596,1.11034483 0.483091787,0.475862069 C1.12721417,-0.15862069 2.17391304,-0.15862069 2.81803543,0.475862069 L24.5169082,21.85 C25.1610306,22.4844828 25.1610306,23.5155172 24.5169082,24.15 L2.81803543,45.5241379 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

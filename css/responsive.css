@@ -1,0 +1,341 @@
+@media only screen and (min-width: 980px)
+    {
+    .top-social{
+        margin-top:-4rem;
+        padding: 0;
+     }
+     .social-align{
+     	float: right;
+     }
+    	 .borders img{
+    	    height: 290px;
+    	    padding: 3px;
+    	}
+    	.party img{min-height: 100%;padding: 3px;}
+    	.hspan {
+        font-size: 4rem;
+       }
+       .hh3 {
+         font-size: 9rem!important;
+       }
+       .topp {
+        font-size: 2.2rem;
+       }
+       .popular-search{
+        margin-top: 2rem!important;
+        margin-bottom: 3rem!important;
+       }
+       .meetteamtext2{padding: 2rem 0!important;}
+       .th3 h3{
+            font-size: 5.7rem!important;
+        }
+        .amp{font-size: 2.5rem!important;}
+        .meetteamtext {
+          padding: 4rem 0!important;
+      }
+  }
+@media only screen and (min-width: 1201px)
+{
+	.our-services-img-l {
+    float: left;
+    border: 2px solid #092443;
+    margin-left: -14rem;
+    padding: 1rem 11rem;
+    margin-right: 50px;
+    margin-top: 9%;    
+    background: #fff;
+	}
+	.our-services-img-r {
+	    float: right;
+	    border: 2px solid #092443;
+	    margin-right: -14rem;
+	    padding: 1rem 11rem;
+	    margin-left: 50px;
+	    margin-top: 9%;
+	    background: #fff;
+	}
+		.pop h3.p1 {
+	    width: 200px;
+	    margin: -30px auto 0;
+	}
+	.pop h3 {
+	    font-size: 2.5rem;
+	}
+  .across .centered {
+    font-size: 3rem;
+  }
+  .btn3{font-size: 1.8rem;padding: .1rem 1.5rem;}
+  .gallerys li img {
+    width: 24%!important;
+    }
+    .comt h3{font-size: 5.5rem!important;}
+}
+@media only screen and (max-width: 1200px) and (min-width: 767px)
+{
+  .search h2{padding-top: 6.5rem;}
+	.our-services-img-r {
+		float: right;
+	    border: 2px solid #092443;
+	    margin-right: -8rem;
+	    padding: 1rem 6rem!important;
+	    margin-left: 21px;
+	    margin-top: 9%;
+	    background: #fff;
+	}
+  .comt h3 {
+    font-size: 4.5rem!important;
+}
+  .btn3{font-size: 1.4rem;padding: .1rem 1.5rem;}
+	.our-services-img-l {
+    float: left;
+    border: 2px solid #092443;
+    margin-left: -8rem;
+    padding: 1rem 6rem!important;
+    margin-right: 21px;
+    margin-top: 9%;    
+    background: #fff;
+	}
+	.pop h3{
+   	width: 159px;
+    margin: auto;
+   }
+   .pop h3 .p1 {
+    width: 150px;
+    margin: -20px auto 0;
+   }
+   .across .centered {
+    font-size: 2.3rem;
+  }
+  .gallerys li img {
+    width: 30%!important;
+    }
+    .easiest h3 {
+    font-size: 1.7rem!important;
+    font-weight: 100;
+   }
+   .package-img{padding: 3px;padding-right: 3px!important;min-height: 250px!important;}
+   .mum .btn3{
+    padding-bottom: 0.5rem!important;
+   }
+   .tab-clicks h2{font-size: 1.5rem;}
+   .tab-clicks h5{font-size: 1.4rem!important;}
+   .ser-center h3{font-size: 12px!important;}
+   .mobile-lounge{margin:1.5rem 0!important; }
+   .text-light p{font-size: 1rem;}
+   .meetteamtext {padding: 2rem 0!important;}
+}
+@media only screen and (max-width: 979px)
+{
+
+  #management-team{padding: 20px 0!important;}
+  .meetteamtext {
+          /*padding: 4rem 0!important;*/
+          padding-top: 1rem!important;
+      }
+  .ser-bg {
+    background: linear-gradient(rgba(255, 255, 255, 0.15),rgba(255, 255, 255, 0.56)),url(../images/bell.jpg) center center no-repeat!important;
+  }
+	.top-social,.logo{
+		text-align: center;
+	}
+	.seller{margin-bottom: 10px;}
+   .mumbaimt {
+    margin-top: 1.5rem!important;
+    margin-bottom: 1.5rem!important;
+   }
+   .th3 h3 {
+    font-size: 3em!important;
+   }
+   .amp{font-size: 1.5rem!important;}
+     .companyvalue p {
+      font-size: 1rem!important;
+      font-weight: 600;
+  }
+  .meetteaml, .meetteamr {
+    padding: 1rem 0.5rem 1rem!important;
+   }
+}
+@media only screen and (min-width: 769px){
+	.abouts {
+    background: url(../images/abouts.jpg) center center no-repeat;
+    padding: 100px 0px;
+    background-size: cover;
+   }
+     .package-img{padding: 3px;padding-right: 3rem;}
+   .hspan {
+       font-size: 3rem;
+    }
+    .hh3 {
+     font-size: 5rem!important;
+   }
+   .topp {
+    font-size: 1.5rem;
+   }
+   .topimage img{height: 100%;width: 100%}
+   .mumbai img {
+      width: 100%;
+      height: 200px;
+      padding: 3px;
+  }
+    .mumbait img{
+      width: 100%;
+      height: 150px!important;
+      padding: 3px;
+  }
+  .mumbais img{
+    height:250px;
+    width: 100%;
+  }
+  .company-name{float: right;right:100px;}
+  .mobile-view{
+    display: none;
+   }
+   .client-we-serve{font-size: 2.3rem;font-weight: 100;}
+  
+}
+@media only screen and (max-width: 768px){
+  .meetteam h3{font-size: 4.5rem!important;}
+	.abouts {
+    background-color: #f3f4f6!important;
+    padding: 10px 0px;
+   /* background-size: cover;*/
+   }
+   .top-header ul li{font-size: 0.7rem;padding: 0px!important;}
+   .btn3{font-size: 1rem;padding: .1rem 1.5rem;}
+   .borders{margin: 10px 0px;}
+   .customer-stories{margin-bottom: 10px;}
+   .hspan {
+       font-size: 2rem;
+  }
+  .companyvalue{margin-bottom: 10px;padding: 10px;}
+  .hh3 {
+     font-size: 4rem!important;
+   }
+   .topp {
+    font-size: 1.5rem;
+   }
+   .our-services-img-r,.our-services-img-l {
+	    border: 2px solid #092443;/*
+	    margin-right: -10rem;*/
+	    /*padding: 1rem 9rem;*/
+	    text-align: center;
+	    /*margin-left: 21px;*/
+	    margin-top: 4%;
+	    background: #fff;
+	}
+	.top-social{font-size: 1rem;
+	}
+	.restaurants-popular{
+		margin-bottom: 20px;
+	}
+	.pop h3{
+   	width: 159px;
+    margin: auto;
+   }
+   .pop h3.p1 {
+    width: 150px;
+    margin-top: -1.7rem;
+   }
+   .mumbai .centered {
+    font-size: 3rem;
+   }
+   .btn5 {
+    font-size: 2rem!important;
+    padding: .3rem 1.8rem;
+    text-transform: uppercase;
+   }
+   .desktop-view{
+    display: none;
+   }
+   .menuchange img{
+    margin-top: 20px;
+   }
+   .mumbait img{padding: 0 5px;}
+   .topmumbai .mumbait .centered {
+    font-size: 1.2rem!important;
+    font-family: 'League Script', cursive;
+   }
+   .mobile-padding{padding: 0px !important;}
+   .clienttop h2{font-size: 1rem;margin-bottom: 0px;}
+   .client-we-serve{font-size: 1.4rem;font-weight: 100;}
+   .gallerys li img {
+    width: 100%!important;
+    }
+    .clienttop {
+    border: 3px solid #e13334 !important;
+    padding: 1rem;
+    margin: -2.5rem auto 1rem !important;
+    background-color: #ffffff;
+    }
+    .ttabs li a {font-size: 3rem!important;}
+    .choose {
+    font-size: 13px!important;
+    display: -webkit-box;
+    float: right;
+    margin-top: -1.7rem!important;
+    margin-bottom: 3rem!important;
+    }
+    .choose:nth-child(1)
+    {
+      margin-right: 3%!important;
+    }
+     .choose:nth-child(2)
+    {
+      margin-right: 4%!important;
+    }
+    .search h2{padding-top: 6.3rem;}
+    .top-social .fa-facebook:hover,.top-social .fa-twitter:hover,.top-social .fa-youtube:hover,.top-social .fa-google-plus-g:hover,.top-social .fa-instagram:hover{padding: 4px 8px!important;}
+    .top-socials li i {
+        margin: 0 11px 0 6px!important;
+        font-size: 1rem!important;
+    }
+    .view-menu:nth-child(1)
+    {
+      color: #fff;margin-left: -5%!important;font-size: 1.2rem;padding: .1rem 2rem;border:1px solid rgb(253, 87, 87);
+    }
+    .view-menu:nth-child(2)
+    {
+      text-transform: uppercase;font-size: 1rem;font-weight: 900;color: #111;
+    }
+    .view-menu:nth-child(3)
+    {
+      border-color: rgba(255, 87, 87, 0.52);font-weight: 900;color: #111;letter-spacing: 3px;
+    }
+    .box > .icon > .info > p {
+     font-size: 11px;
+    }
+     .text-light p{font-size: 1rem;}
+  }
+  @media only screen and (min-width: 750px) and (max-width: 860px)
+  {
+   .borders img {
+      width: 100%;
+      max-height: 210px;
+    } 
+    .party p {
+    padding: 0 1rem;
+    font-size: 1rem;
+    }
+    .mob-footer{margin-top: 3rem;}
+    .topstory1 p{
+    font-size: 1.5rem!important;
+    font-weight: 600;
+    }
+    .meetteaml, .meetteamr {
+    padding: 0.5rem 0.5rem 0.5rem!important;
+    }
+    .meetteamtext {padding: 2rem 0!important;}
+    .topimage img {
+    height: 100%;
+    width: 100%;
+    }
+    .topsection2 h2{font-size: 1.5rem!important;}
+    .topsection2 .desc {font-size: 1.2rem!important;}
+    .meetteamtext2{padding: 1rem 0!important;}
+  }
+.img1,.img2,.img3
+{
+	height: 100%;
+    width: 100%;
+}
+/*.lounge img{height: 100%;}*/

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="5px" viewBox="0 0 7 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-point-to-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-header" transform="translate(-884.000000, -157.000000)" fill="#46464A" fill-rule="nonzero">
+            <g id="arrow-point-to-right" transform="translate(887.500000, 159.500000) rotate(90.000000) translate(-887.500000, -159.500000) translate(885.000000, 156.000000)">
+                <path d="M3.96949972,3.846536 L0.863521359,6.85633135 C0.665943618,7.04788955 0.345605178,7.04788955 0.148123356,6.85633135 C-0.0493744521,6.66494355 -0.0493744521,6.35453096 0.148123356,6.16315866 L2.89643469,3.49994965 L0.148203289,0.836833596 C-0.0492945194,0.645368344 -0.0492945194,0.334986732 0.148203289,0.143598939 C0.345701097,-0.0478663132 0.666023551,-0.0478663132 0.863601292,0.143598939 L3.96957966,3.15344077 C4.06832856,3.24918114 4.11764706,3.37452666 4.11764706,3.49993416 C4.11764706,3.62540362 4.06823264,3.7508421 3.96949972,3.846536 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
